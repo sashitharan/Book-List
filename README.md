@@ -25,5 +25,5 @@ Main goal was to implement my knowledge on Javascript and code a Book list with 
 
 
 ## Snippets
-![Main Screen](/images/xxxxxx.jpg])
+![Main Screen](/images/xxxxxx.png)
 
