@@ -31,7 +31,7 @@ Main goal was to implement my knowledge on Javascript and code a Book list with 
 ### Adding a book.
 ![](/images/xxxxx.png)
 
-### Book is added as seen in the browser log.
+### Book is added as seen in the browser log (Under Local Storage).
 ![](/images/xx.png)
 
 ### Upon clicking the 'X', Book is removed.
