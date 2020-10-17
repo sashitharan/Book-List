@@ -21,9 +21,15 @@ Main goal was to implement my knowledge on Javascript and code a Book list with 
 
 
 
-*Enjoy :)*
+*Fork it, clone it and give it a try! Enjoy :)*
 
 
 ## Snippets
 ![Main Screen](/images/xxxxxx.png)
+![](/images/x.png)
+![](/images/xx.png)
+![](/images/xxx.png)
+![](/images/xxxx.png)
+![](/images/xxxxx.png)
+
 
