@@ -24,3 +24,6 @@ Main goal was to implement my knowledge on Javascript and code a Book list with 
 *Enjoy :)*
 
 
+## Snippets
+![Main Screen](/images/xxxxxx.jpg])
+
