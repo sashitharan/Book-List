@@ -35,12 +35,12 @@ Main goal was to implement my knowledge on Javascript and code a Book list with 
 ![](/images/xx.png)
 
 ### Upon clicking the 'X', Book is removed.
-![](/images/xx.png)
+![](/images/x.png)
 
-###
+### Validation case for Entry with empty fields 1.
 ![](/images/xxx.png)
 
-###
+### Validation case for Entry with empty fields 2.
 ![](/images/xxxx.png)
 
 
