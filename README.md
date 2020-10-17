@@ -25,16 +25,22 @@ Main goal was to implement my knowledge on Javascript and code a Book list with 
 
 
 ## Snippets
-### Main Screen
+### Main Screen.
 ![Main Screen](/images/xxxxxx.png)
 
-### Adding a book
+### Adding a book.
 ![](/images/xxxxx.png)
 
-### Book is added as seen in the browser
-![](/images/x.png)
+### Book is added as seen in the browser log.
 ![](/images/xx.png)
+
+### Upon clicking the 'X', Book is removed.
+![](/images/xx.png)
+
+###
 ![](/images/xxx.png)
+
+###
 ![](/images/xxxx.png)
 
 
